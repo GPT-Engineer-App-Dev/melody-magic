@@ -9,7 +9,7 @@ const Index = () => {
       <Box as="header" w="full" bg="black" color="white" p={4}>
         <Flex justify="space-between" align="center">
           <Heading as="h1" size="xl">
-            My Band
+            Fabian and the Machines
           </Heading>
           <Flex align="center">
             <Link href="https://facebook.com" isExternal mx={2}>
