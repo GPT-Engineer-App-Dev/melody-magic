@@ -1,11 +1,6 @@
 # melody-magic
 
-Implement a stylish landing page for a band's touring website, with the following features:
-- Interactive header with band imagery
-- Tour dates section
-- Embedded YouTube video for a music video, using a placeholder video
-- Social media integration
-The band's name is not known, so use "My Band" as a placeholder. Use placeholders for the tour dates as well.
+Reimplement the landing page with the band's name "Fabian and the Machines" prominently featured, as the previous attempt to push this change encountered a conflict.
 
 ## Collaborate with GPT Engineer
 
