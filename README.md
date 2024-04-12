@@ -1,11 +1,10 @@
 # melody-magic
 
-Implement a stylish landing page for a band's touring website, with the following features:
+Create a new branch from the original Vite template and implement the landing page with the band's name "Fabian and the Machines" prominently featured. Include the same features as before:
 - Interactive header with band imagery
 - Tour dates section
 - Embedded YouTube video for a music video, using a placeholder video
 - Social media integration
-The band's name is not known, so use "My Band" as a placeholder. Use placeholders for the tour dates as well.
 
 ## Collaborate with GPT Engineer
 
